@@ -39,14 +39,14 @@ $(document).ready(function () {
   
     // Typing animation script start
     var typed = new Typed(".typing", {
-      strings: ["Full Stack Java Developer", "Front End Developer", "Especialist in Foreing Trade and Logistic"],
+      strings: ["Full Stack Java Developer", "Front End Developer", "Specialist in Foreing Trade and Logistic"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
     });
   
     var typed = new Typed(".typing2", {
-      strings: ["Full Stack Java Developer", "Front End Developer", "Especialist in Foreing Trade and Logistic"],
+      strings: ["Full Stack Java Developer", "Front End Developer", "Specialist in Foreing Trade and Logistic"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
