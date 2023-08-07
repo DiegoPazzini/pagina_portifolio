@@ -2,7 +2,7 @@
 
 <h2>Descrição do Projeto</h2>
  
-Página de apresentação profissional e de portifólio (página responsiva e com interação com os campos. Ex: envio de mensagem com retorno, links para acesso as minhas redes sociais). Desenvolvida com HTML, CSS e JavaScript. 
+Página de apresentação profissional e de portifólio (página responsiva e com interação com os campos. Ex: envio de mensagem com retorno, links para acesso as minhas redes sociais). Desenvolvida com HTML, CSS, Bootstrap e JavaScript. 
 
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
